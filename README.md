@@ -2,7 +2,7 @@
   <img width="196" height="196" src="./docs/logo.png" />
   <h1>Dark Orchid for Alacritty</h1>
 
-  A Alacritty Theme, that's purple.
+  An Alacritty Theme, that's purple.
 
   *If you like this project, consider giving it a ⭐ to show your support!*<br/>
   *It also helps others to discover it.*
