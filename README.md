@@ -21,11 +21,21 @@ The Dark Orchid Theme is a cohesive visual ecosystem built around the striking c
 Centered on the rich Dark Orchid shade, it highlights purple's depth, creativity, and elegance. Through balanced contrasts and unified tones, the theme creates a bold yet harmonious aesthetic that stands out across any design.
 
 ## Features
-- Supports latest Alacritty (>=)
+- Supports latest Alacritty (>=0.15)
 - Fully Transparent
 - It's purple
 
 ## Usage
+1. Download the [theme file](./dark-orchid.toml)
+2. Place it near to your Alacritty config. Probably `~/.config/alacritty`.
+3. Add the following code to your `alacritty.toml`:
+```toml
+[general]
+import = [
+  "~/.config/alacritty/dark-orchid.toml"
+]
+```
+4. Enjoy
 
 ## License
 The MIT License (MIT) - Please have a look at the [LICENSE file](./LICENSE) for more details.
