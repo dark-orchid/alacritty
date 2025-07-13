@@ -1,0 +1,22 @@
+[colors]
+transparent_background_colors = false
+
+[colors.primary]
+background = "#18181b" # Zinc 900
+foreground = "#d4d4d8" # Zinc 300
+
+[colors.cursor]
+text = "#27272a" # Zinc 800
+cursor = "#d4d4d8" # Zinc 300
+
+[colors.vi_mode_cursor]
+text = "#27272a" # Zinc 800
+cursor = "#d4d4d8" # Zinc 300
+
+[colors.selection]
+text = "#71717a" # Zinc 500
+background = "#3f3f46" # Zinc 700
+
+[colors.line_indicator]
+foreground = "#d4d4d8" # Zinc 300
+background = "#3f3f46" # Zinc 700
