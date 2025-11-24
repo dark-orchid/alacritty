@@ -20,3 +20,33 @@ background = "#3f3f46" # Zinc 700
 [colors.line_indicator]
 foreground = "#d4d4d8" # Zinc 300
 background = "#3f3f46" # Zinc 700
+
+[colors.normal]
+black = "#18181b" # Zinc 950
+red = "#dc2626" # Red 600
+green = "#16a34a" # Green 600
+yellow = "#ca8a04" # Yellow 600
+blue = "#2563eb" # Blue 600
+magenta = "#db2777" # Pink 600
+cyan = "#0891b2" # Cyan 600
+white = "#d4d4d8" # Zinc 300
+
+[colors.dim]
+black = "#18181b" # Zinc 950
+red = "#dc2626" # Red 600
+green = "#16a34a" # Green 600
+yellow = "#ca8a04" # Yellow 600
+blue = "#2563eb" # Blue 600
+magenta = "#db2777" # Pink 600
+cyan = "#0891b2" # Cyan 600
+white = "#d4d4d8" # Zinc 300
+
+[colors.bright]
+black = "#18181b" # Zinc 950
+red = "#dc2626" # Red 600
+green = "#16a34a" # Green 600
+yellow = "#ca8a04" # Yellow 600
+blue = "#2563eb" # Blue 600
+magenta = "#db2777" # Pink 600
+cyan = "#0891b2" # Cyan 600
+white = "#d4d4d8" # Zinc 300
